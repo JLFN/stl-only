@@ -1,0 +1,9 @@
+designs/
+steps/
+convert/
+graphify-out/
+graphify-rs-out/
+stls/
+*.bak
+*.rag-index
+.rag-index/
